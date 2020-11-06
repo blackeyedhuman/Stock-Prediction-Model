@@ -1,0 +1,90 @@
+The stock open price for 30th Oct is:
+RBF kernel: $ 2.0679763753439864
+Linear kernel: $ 2.021666666638096
+Polynomial kernel: $ 2.0199549508308055
+Avg : 2.036532
+Actual value : 2.000000
+
+The stock open price for 30th Nov is:
+RBF kernel: $ 1.6759865653125112
+Linear kernel: $ 1.6124999999986511
+Polynomial kernel: $ 1.588311697360055
+Avg : 1.625599
+Actual value : 1.5000000
+
+The stock open price for 30th Dec is:
+RBF kernel: $ 1.3495053979853173
+Linear kernel: $ 1.240760869558867
+Polynomial kernel: $ 1.2159091353311102
+Avg : 
+Actual value : 1.340235
+
+The stock open price for 30th Jan is:
+RBF kernel: $ 2.2256871361884394
+Linear kernel: $ 2.777083333325831
+Polynomial kernel: $ 2.8755556274873357
+Actual value : 2.250000
+
+The stock open price for 30th April is:
+RBF kernel: $ 3.02
+Linear kernel: $ 3.02
+Polynomial kernel: $ 3.02
+Actual : 3.1
+
+The stock open price for 31st may is:
+RBF kernel: $ 5.088541751205392
+Linear kernel: $ 6.251904761544166
+Polynomial kernel: $ 6.644444495227664
+Actual : 5.3
+
+The stock open price for 30th june is:
+RBF kernel: $ 5.422148661711413
+Linear kernel: $ 5.361904761838487
+Polynomial kernel: $ 5.406173015684713
+Actual : 5.55
+
+The stock open price for 31st july is:
+RBF kernel: $ 5.85434819064051
+Linear kernel: $ 5.506666666794054
+Polynomial kernel: $ 5.510127101549875
+Actual : 7.00
+
+The stock open price for 31st Aug is:
+RBF kernel: $ 7.677530556628261
+Linear kernel: $ 7.877894736903533
+Polynomial kernel: $ 7.824751098791705
+Actual : 7.9
+
+The stock open price for 28th sep is:
+RBF kernel: $ 5.706639342909343
+Linear kernel: $ 5.429999999783247
+Polynomial kernel: $ 5.269327717751905
+Actual : 5.6
+
+The stock open price for 31st Oct is:
+RBF kernel: $ 6.0043957162997845
+Linear kernel: $ 5.936923076939285
+Polynomial kernel: $ 5.85454541066143
+Actual : 5.8
+
+The stock open price for 30th Nov is:
+RBF kernel: $ 5.405313940306303
+Linear kernel: $ 4.7099999999131885
+Polynomial kernel: $ 4.618465993720718
+Actual : 4.78
+
+The stock open price for 31st Dec is:
+RBF kernel: $ 5.101288844412988
+Linear kernel: $ 4.907142857277975
+Polynomial kernel: $ 4.878918936987663
+Actual : 5.06
+
+
+The stock open price for 31st Jan is:
+RBF kernel: $ 5.1377812328967405
+Linear kernel: $ 5.045384615285574
+Polynomial kernel: $ 4.979642869560255
+Actual : 4.95
+
+
+
